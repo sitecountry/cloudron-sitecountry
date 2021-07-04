@@ -14,4 +14,4 @@ Finally bash the script by :
 
 Wait for about 5-15 minutes depending on the speed and CPU power of your server.
 We recommend that you use SItecountry VPS to install Cloudron for most optimum performance.
-Get sitecountry VPS here.
+Get sitecountry VPS <a href="https://sitecountry.com/cloudvps-scpanel/">here</a>.
